@@ -18,4 +18,5 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/itz_ola_Peace
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/peace-fabowale-821731210
+
